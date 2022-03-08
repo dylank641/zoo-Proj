@@ -1,0 +1,24 @@
+{
+  "name": "zoo-proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylank641/zoo-Proj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylank641/zoo-Proj/issues"
+  },
+  "homepage": "https://github.com/dylank641/zoo-Proj#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
