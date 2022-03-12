@@ -153,6 +153,15 @@
         "hungry"
       ],
       "id": "15"
+    },
+    {
+      "name": "ganggang",
+      "species": "pussyslayer",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "16"
     }
   ]
 }
